@@ -69,3 +69,14 @@ body {
 	box-shadow: 5px 5px 5px 5px gray;
 	margin: 7%;
 }
+
+footer {
+	background-color: white;
+}
+
+.copyright {
+	border-top: 2px black solid;
+	padding-top: 2%;
+	padding-bottom: 2%;
+	text-align: center;
+}
